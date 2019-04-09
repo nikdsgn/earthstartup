@@ -41,7 +41,7 @@ button:hover {
 .btn {
     font-weight: 700;
     border-radius: 300px;
-    
+    margin-bottom: -50px;
 }
 
 .btn-xl {
@@ -55,6 +55,11 @@ button:hover {
     padding: 1rem 2rem;
     background-color: #fff;
     color: #000;
+}
+
+
+.clear {
+    margin-top: 70px;
 }
 
 
